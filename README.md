@@ -46,9 +46,8 @@ LocalStorage API – To persist messages across sessions
 
 
 OUTPUT:
-
-![Image](https://github.com/user-attachments/assets/bfee6c50-2d29-4040-9453-82cd8a0f4b12)
 ![Image](https://github.com/user-attachments/assets/aee6bd6b-1d69-4212-8ba0-b3a9a9881b41)
+![Image](https://github.com/user-attachments/assets/bfee6c50-2d29-4040-9453-82cd8a0f4b12)
 ![Image](https://github.com/user-attachments/assets/9bbf636f-e017-4401-b2a0-60603d3a0e1d)
 
 
